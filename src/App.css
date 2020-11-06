@@ -1,0 +1,13 @@
+.user-card {
+  width: 400px;
+  height: 100px;
+  padding: 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.19);
+  margin: 10px auto;
+}
+.color-red {
+  color: red;
+}
+.color-pink {
+  color: pink;
+}
